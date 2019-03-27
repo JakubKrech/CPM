@@ -6,7 +6,6 @@ The critical path method (**CPM**) is an algorithm for scheduling a set of proje
  - Calculating *Critical Action Path* and *Critical Event Path*
  - Calculating *Critical Time*
 ## Screenshots
-Example screenshot:
 ![CPM.png screenshot should be there](CPM.png)
 ## Built with
  - Unity Engine (C#)
